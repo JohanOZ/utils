@@ -1,0 +1,7 @@
+mitmweb -s .\incode_pro.py -q --no-web-open-browser --mode upstream:http://geo.iproyal.com:12321 --upstream-auth BXZtrPArqQno7cFz:QR8JAzy30cRp3kO8_country-mx_session-bvz06740_lifetime-30m
+
+
+mitmweb -s .\incode_pro.py -q --mode upstream:http://geo.iproyal.com:12321 --upstream-auth BXZtrPArqQno7cFz:QR8JAzy30cRp3kO8_country-mx_session-bvz06740_lifetime-30m
+
+
+Genera una recreación fotográfica hiperrealista en formato vertical (9:16) con una composición estrictamente centrada y simétrica. El encuadre debe ser un primer plano medio (cabeza y hombros), alineando el eje vertical del rostro exactamente en el centro del cuadro. Mantén una fidelidad absoluta a la geometría facial y la morfología ósea del sujeto en la imagen de referencia: preserva exactamente la distancia interocular, la forma de los ojos, la proyección de la nariz y el contorno de los labios. Preserva la textura dérmica original y cualquier rasgo distintivo (marcas, poros, vello facial). Elimina quirúrgicamente cualquier elemento obstructivo (manos, tarjetas de identificación, gafas o accesorios) que no pertenezcan a la anatomía natural del sujeto. Reconstruye de forma coherente la piel y las prendas de vestir en las zonas de oclusión, manteniendo el estilo y patrón de la vestimenta original. Fondo limpio y nítido derivado del entorno de la imagen. Iluminación frontal uniforme para máxima claridad.
